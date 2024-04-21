@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropbox {
+	box-shadow: 8px 8px;
+	border: 3px solid;
+}
