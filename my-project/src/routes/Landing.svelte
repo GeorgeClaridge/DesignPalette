@@ -7,12 +7,11 @@
 <div class="py-20 mx-2 md:mx-8 xl:px-64 grid grid-cols-1 md:grid-cols-2 items-center">
 	<div class="Info text-center md:text-left">
 		<div style:color={$ActiveColours[2]} class="Header font-bold text-6xl tracking-tight">
-			How Lovable
+			TechNest
 		</div>
-		<div style:color={$ActiveColours[2]} class="Header font-bold text-6xl tracking-tight">
-			Software is Built
-		</div>
-		<div class="SubText text-xl py-3">Design, build and share what makes you smile</div>
+		<div class="SubText text-xl py-4 leading-8">"Welcome to TechNest, where innovation takes flight. We specialize in crafting cutting-edge
+			solutions that redefine industry standards. Join us on our journey to transform the future of
+			technology."</div>
 		<div class="ButtonContainer">
 			<button
 				style:background-color={$ActiveColours[3]}

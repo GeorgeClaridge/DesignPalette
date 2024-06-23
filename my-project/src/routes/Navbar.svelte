@@ -5,7 +5,7 @@
 <div class="navbar flex justify-between items-center py-4 px-4 md:px-8 xl:px-12">
 	<div class="flex items-center">
 		<div style:background-color={$ActiveColours[2]} class="w-10 h-10 mr-2 rounded-lg"></div>
-		<div style:color={$ActiveColours[2]} class="text-2xl font-bold">BRAND</div>
+		<div style:color={$ActiveColours[2]} class="text-3xl font-bold tracking-tight">TechNest</div>
 	</div>
 
 	<button
